@@ -1,0 +1,12 @@
+hour,traffic_partner,position,os_name,gender_impute,age_impute,householdincome_impute,campaign_name,campagin_id
+1,"Fanatics, Inc.",2,iOS,M,24,45000,Smarty  ShipmentsFree ALL  AdFlow  15276,0eeeb706-977d-4dd3-8dd7-e33560386bf5
+17,"Fanatics, Inc.",2,iOS,F,40,250000,Clarus Direct  FreeShipping  ALL  Adflow  15305,78267472-6af9-4b3d-896b-bc70251d4d63
+14,"Fanatics, Inc.",4,iOS,M,38,65000,SiriusXM  Streaming Music (fanatics.com)  All  Adflow  15782,deb47fbb-cd4a-4ae1-bfb0-c85776887f58
+11,"Fanatics, Inc.",4,iOS,M,31,100000,Capital One  iOS  Adflow  16419,9c0e18f7-b6c1-42da-ab7b-d5070a674b11
+13,Vivid Seats,1,Mac,M,61,250000,Smarty  ShipmentsFree ALL  AdFlow  15276,0eeeb706-977d-4dd3-8dd7-e33560386bf5
+2,"Fanatics, Inc.",2,Android,M,40,71104,Apple  Apple Card  iOS  Adflow  15594,a8eb85e5-57e1-46ba-8039-77183da5e71a
+9,"Fanatics, Inc.",3,Mac,F,26,100000,Hulu  Hulu 30 day  AdFlow   14881,bbadb7f6-b9a8-4519-87a7-9768834d961e
+5,"Fanatics, Inc.",8,iOS,F,30,120000,SiriusXM  Streaming Music (fanatics.com)  All  Adflow  15782,deb47fbb-cd4a-4ae1-bfb0-c85776887f58
+21,Vivid Seats,3,Mac,F,22,40000,Capital One  iOS  Adflow  16419,9c0e18f7-b6c1-42da-ab7b-d5070a674b11
+7,StackCommerce,6,Android,M,42,200000,Apple  Apple Card  iOS  Adflow  15594,a8eb85e5-57e1-46ba-8039-77183da5e71a
+8,"M2 Media Group (Blue Dolphin, LLC)",3,Mac,F,35,300000,Clarus Direct  FreeShipping  ALL  Adflow  15305,78267472-6af9-4b3d-896b-bc70251d4d63
